@@ -1,1 +1,1 @@
-Install-Moßdule -Name Az -allowclobber -verbose -force
+Install-Module -Name Az -allowclobber -verbose -force

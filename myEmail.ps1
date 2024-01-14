@@ -1,0 +1,1 @@
+GET /me/mailFolders('SentItems')/messages?$select=sender,subject
